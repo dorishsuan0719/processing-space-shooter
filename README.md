@@ -134,33 +134,3 @@ processing-space-shooter/
     ├── Enemy.png
     ├── Plane.png
     └── shoot.wav
-
-## How to Run
-
-1. Install Processing.
-2. Install the Processing Sound Library.
-3. Open `week16_finalproject.pde`.
-4. Make sure the files inside the `data` folder are kept with the project.
-5. Click Run in Processing.
-6. Use W, A, S, and D to control the aircraft.
-
-## Future Improvements
-
-Future improvements could include:
-
-- Adding different enemy types
-- Adding multiple weapon types
-- Designing different difficulty levels
-- Adding boss battles
-- Improving visual effects and animations
-- Saving the best score between sessions
-
-## Course Project
-
-Processing Course Project
-
-Developed by YuHsuan Chen.
-
-Processing Course Project
-
-Developed by YuHsuan Chen.
